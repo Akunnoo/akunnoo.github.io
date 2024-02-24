@@ -28,7 +28,7 @@ Submit Repository URL: After pushing your changes to Github, copy the URL of you
 <!DOCTYPE html> 
 <html> 
 <head>
-<title> Hello World! </title>
+<title>Hello World!</title>
 </head> 
 <body> 
 <h1>Hello World, My name is Ernest!</h1> 
