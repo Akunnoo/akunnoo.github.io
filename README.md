@@ -1,23 +1,17 @@
 # akunnoo.github.io
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
+    <style> body{
+    background-color:7F1A1F
+    }
+    h1{
+    color:262A31
+    }
+    
     <title>My Personal Introduction</title>
-    <style>
-        body {
-            background-color: #e0fbfc; /
-            color: #333; 
-            font-family: Arial, sans-serif; 
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            color: #ff6b6b; 
-        }
-        p {
-            font-size: 18px; 
-        }
-    </style>
+ </style>
+  
 </head>
 <body>
     <h1>My name is Ernest Sanders Jr. </h1>
